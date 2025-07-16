@@ -22,10 +22,9 @@
 ---
 ### 🧠 Skills Snapshot
 
-**Programming:** Python, R, SQL
-**Tools & Platforms:** Jupyter, RStudio, VS Code, GitHub, Tableau, Overleaf, Google Colab
-**Data Management:** WRDS API, PostgreSQL, Microsoft Dynamics CRM
-**Languages:** Spanish (native), English (C1), German (A2)
+* Programming: Python, R, SQL
+* Tools & Platforms: Jupyter, RStudio, VS Code, GitHub, Tableau, Overleaf, Google Colab,  PostgreSQL, Microsoft Dynamics CRM
+
 ---
 
 
