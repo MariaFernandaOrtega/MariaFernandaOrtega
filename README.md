@@ -9,7 +9,7 @@
 
 ### 🔭 Currently Working On
 
-* Research with the **Global Solutions Initiative**, including the *Global Flourishing Study* (in collaboration with Harvard University) and corporate responsibility frameworks (with the University of Oxford).
+* Research with the Global Solutions Initiative, contributing to the Global Flourishing Study (in collaboration with Harvard University) and corporate responsibility reporting project (in partnership with the Saïd Business School).
 
 ---
 
