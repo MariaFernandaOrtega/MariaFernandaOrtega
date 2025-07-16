@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**MariaFernandaOrtega/MariaFernandaOrtega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hi there, I'm Fernanda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 ** Research Associate** focused on data-driven policy.
+
+
+---
+
+### 🔭 Currently Working On
+
+* Research with the **Global Solutions Initiative**, including the *Global Flourishing Study* (in collaboration with Harvard University) and corporate responsibility frameworks (with the University of Oxford).
+
+---
+
+### 🌱 Currently Learning
+
+* Advanced **Natural Language Processing** and **Causal Inference** methods.
+* Deeper integration of **machine learning** techniques in public policy applications.
+
+
+---
+### 🧠 Skills Snapshot
+
+**Programming:** Python, R, SQL
+**Tools & Platforms:** Jupyter, RStudio, VS Code, GitHub, Tableau, Overleaf, Google Colab
+**Data Management:** WRDS API, PostgreSQL, Microsoft Dynamics CRM
+**Languages:** Spanish (native), English (C1), German (A2)
+---
+
+
+
+### 📫 Reach Me At
+
+* GitHub: \[https://github.com/MariaFernandaOrtega]
+* Email: \[[f.ortegavalencia@gmail.com](mailto:f.ortegavalencia@gmail.com)]
+* LinkedIn: \[linkedin.com/in/fernanda-ortega-a687771aa]
+
+---
