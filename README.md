@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm Fernanda
 
-🔬 ** Research Associate** focused on data-driven policy.
+🔬 **Research Associate** focused on data-driven policy.
 
 
 ---
