@@ -33,6 +33,6 @@
 
 * GitHub: \[https://github.com/MariaFernandaOrtega]
 * Email: \[[f.ortegavalencia@gmail.com](mailto:f.ortegavalencia@gmail.com)]
-* LinkedIn: \[linkedin.com/in/fernanda-ortega-a687771aa]
+* LinkedIn: \[linkedin.com/in/fernanda-ortega-a687771aa ]
 
 ---
