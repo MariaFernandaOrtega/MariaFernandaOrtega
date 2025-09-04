@@ -7,20 +7,20 @@
 
 ---
 
-### 🔭 Currently Working On
+### 🔭 Currently working on
 
 * Research with the Global Solutions Initiative, contributing to the Global Flourishing Study (in collaboration with Harvard University) and corporate responsibility reporting project (in partnership with the Saïd Business School).
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently learning
 
 * Advanced **Natural Language Processing** and **Causal Inference** methods.
 * Deeper integration of **machine learning** techniques in public policy applications.
 
 
 ---
-### 🧠 Skills Snapshot
+### 🧠 Skills snapshot
 
 * Programming: Python, R, SQL
 * Tools & Platforms: Jupyter, RStudio, VS Code, GitHub, Tableau, Overleaf, Google Colab,  PostgreSQL, Microsoft Dynamics CRM
@@ -29,7 +29,7 @@
 
 
 
-### 📫 Reach Me At
+### 📫 Reach me at
 
 * [GitHub](https://github.com/MariaFernandaOrtega)
 * [Email](mailto:f.ortegavalencia@gmail.com)
